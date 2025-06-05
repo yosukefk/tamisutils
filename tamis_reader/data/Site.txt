@@ -1,0 +1,51 @@
+AQS Code	CAMS	TCEQ Region	Reg#	Site Name	Street Address	Latitude	Longitude	Elevation	Activation Date	Deactivation Date	Owned By
+482451071	1071	BEAUMONT	10	Port Arthur West 7th Street Gate 2	West 7th Street, Valero Port Arthur Gate 2 	29.8441175	29.8441175		30-Sep-2016		TCEQ
+482450102	0643	BEAUMONT	10	SETRPC 43 Jefferson Co Airport	Jefferson County Airport 	29.9427475	-94.0006907		05-Aug-2008		South East Texas Regional Planning Commission
+482450009	0002, 0112, 2002	BEAUMONT	10	Beaumont Downtown	1086 Vermont Avenue 	30.0364361	-94.0710702		01-Jan-1980		TCEQ
+482451050	1050	BEAUMONT	10	Beaumont Mary	598 Craig Street 	30.0714786	-94.0948957		13-Oct-2010		TCEQ
+482450014	0119	BEAUMONT	10	Groves	3355 Grandview Ave &amp; 32nd St 	29.9611570	-93.8959189		01-Sep-1993		TCEQ
+482450017	0136	BEAUMONT	10	Port Neches Avenue L	605 Avenue L 	29.9824985	-93.9528876		25-Jul-1994		TCEQ
+482451035	1035	BEAUMONT	10	Nederland 17th Street	1516 17th Street 	29.9799676	-94.0048054		30-Aug-2006		TCEQ
+482450628	0628, 1628, 628	BEAUMONT	10	SETRPC Port Arthur	6956 James Gamble Drive 	29.8677560	-93.9511630	5.0	05-Oct-2004		South East Texas Regional Planning Commission
+483611083	1083	BEAUMONT	10	Orange 1st Street	2239 1st Street 	30.1537862	-93.7259540		03-Oct-2016		TCEQ
+482450022	0064, 0654	BEAUMONT	10	Hamshire	12552 Second St 	29.8639608	-94.3178051		10-Feb-2000		TCEQ
+482450018	1019, 2001	BEAUMONT	10	Jefferson County Airport	End of 90th Street @ Jefferson County Airport 	29.9428205	-94.0007857		01-Oct-1994		TCEQ
+482450101	0640, 1654	BEAUMONT	10	SETRPC  40  Sabine Pass	5200 Mechanic 	29.7279404	-93.8940883		01-Jan-2000		South East Texas Regional Planning Commission
+482450021	0303, 0689	BEAUMONT	10	Port Arthur Memorial School	2200 Jefferson Drive 	29.9229228	-93.9089999		06-Mar-2000		South East Texas Regional Planning Commission
+482450011	0028, 0128, 0228	BEAUMONT	10	Port Arthur West	623 Ellias Street 	29.8975230	-93.9910809		01-Jan-1981		TCEQ
+483611100	0311, 0642, 0665	BEAUMONT	10	SETRPC 42 Mauriceville	Intersection of TX Hwys 62 &amp; 12 	30.1942924	-93.8671364		01-Jan-1999		South East Texas Regional Planning Commission
+483611001	0009, 0141	BEAUMONT	10	West Orange	2700 Austin Ave 	30.0852743	-93.7613590		01-Jan-1974		TCEQ
+480055013	5013	BEAUMONT	10	Lufkin KLFK	Angelina County Airport 	31.2338890	-94.7500000	85.0	02-Sep-2005	05-Oct-2020	National Weather Service
+482450019	0131, 2000	BEAUMONT	10	City Service Center / PA	201 H O Mills Blvd 	29.8938491	-93.9792618	3.0	09-May-1997	28-Apr-2019	TCEQ
+483739001	1027	BEAUMONT	10	C1027-Alabama-Coushatta-TX	571 State Park Rd. 56 	30.7016670	-94.6738890	91.0	13-Apr-2005	17-Oct-2008	Alabama-Coushatta
+482450020	0054, 0130	BEAUMONT	10	CARROLL STREET PARK	Grant &amp; Grove Streets 	30.0660458	-94.0773862	6.0	18-Nov-1997	30-Jul-2008	TCEQ
+484050646	0646	BEAUMONT	10	San Augustine Airport NTRD	811 County Rd 215 	31.5394440	-94.1702780	116.0	27-Jul-2005	15-Dec-2006	University of Texas at Austin
+483510639	0639	BEAUMONT	10	Newton NTRD C639	1128 CR 1011 	30.8847222	-93.7419444	91.0	22-Jul-2005	07-Nov-2006	University of Texas at Austin
+482451010		BEAUMONT	10	Chriswell	200 Chriswell 	30.0969440	-94.0955560	0	03-Sep-1992	30-Dec-1996	TCEQ
+481990002		BEAUMONT	10	Kountze City Hall	City Hall 	30.3813890	-94.3155560	0	01-Jan-1989	31-Dec-1993	TCEQ
+482451009		BEAUMONT	10	Memorial Blvd	Memorial Blvd 	29.9094440	-93.9433330	11.0	01-Nov-1979	31-Dec-1988	TCEQ
+482450001		BEAUMONT	10	Beaumont Health Department	950 Washington Blvd (City Health Dept) 	30.0583330	-94.0933330	7.0	01-Jan-1959	31-Dec-1988	TCEQ
+482450010		BEAUMONT	10	Tyrell School	4401 Ferndale (Tyrell School) 	29.7180560	-93.8969440		01-Jan-1981	01-Jan-1985	TCEQ
+483470002		BEAUMONT	10	Nacodoches Fire Station	408 Stallings Dr SW (Fire Station) 	31.5775000	-94.6750000	94.0	01-Jan-1982	24-Jul-1983	TCEQ
+482450003		BEAUMONT	10	Jefferson County Airport 1971-81	Jefferson Co Airport 	29.9541670	-94.0166670	11.0	01-Jan-1971	31-Dec-1981	TCEQ
+482450007		BEAUMONT	10	Lampman Drive Fire Station	6297 Hwy 105 at Lampman Dr (Fire Station) 	30.1316670	-94.1758330	11.0	01-Jan-1976	31-Dec-1981	TCEQ
+482452004		BEAUMONT	10	West 90th Street	West end of 90th St 	29.9430560	-94.0027780	11.0	01-Jan-1979	31-Dec-1981	TCEQ
+482450008		BEAUMONT	10	Lamar University	755 E Virginia at Lamar Univ 	30.0416670	-94.0791670	13.0	01-Jan-1979	31-Dec-1981	TCEQ
+482450006		BEAUMONT	10	Beaumont Avenue	431 Beaumont Ave 	29.8702780	-93.9344440	9.0	01-Jan-1973	31-Dec-1979	TCEQ
+482450002		BEAUMONT	10	Port Neches Avenue B	307 Ave B 	29.9916670	-93.9583330	5.0	01-Jan-1971	31-Dec-1979	Jefferson County Health Department
+483470001		BEAUMONT	10	SFA University Forestry Building	SFA University (Forestry Building) 	31.6280560	-94.6472220	86.0	01-Jan-1975	01-Jan-1977	TCEQ
+483610002		BEAUMONT	10	Orange Health Department	701 2nd St City Health Dept 	30.0966670	-93.7361110	13.0	01-Jan-1967	31-Dec-1976	TCEQ
+482454004		BEAUMONT	10	Park Street	1200 Park St 	29.9655560	-93.9538890	12.0	01-Jan-1972	01-Jul-1975	Jefferson County Health Department
+482451005		BEAUMONT	10	Port Arthur Service Center	Hwy 73 Service Center 	29.8958330	-93.9791670	7.0	01-Jan-1971	01-Jul-1975	Jefferson County Health Department
+482452005		BEAUMONT	10	Port Neches Sewage Plant	Port Neches Sewage Plant 	29.9458330	-93.9458330	11.0	01-Jan-1971	31-Dec-1974	Jefferson County Health Department
+482452001		BEAUMONT	10	Winnie &amp; Hamshire	between Winnie &amp; Hamshire 	29.8333330	-94.3375000	9.0	01-Jan-1973	31-Dec-1973	Jefferson County Health Department
+482451008		BEAUMONT	10	Port Arthur Main Sewage Plant	Port Arthur Main Sewage Plant 	29.9291670	-93.8791670	8.0	01-Jan-1973	31-Dec-1973	Jefferson County Health Department
+482453004		BEAUMONT	10	Picton Towing	Port Arthur Docks (Picton Towing Co) 	29.8375000	-93.9583330	9.0	01-Jan-1973	31-Dec-1973	Jefferson County Health Department
+482450004		BEAUMONT	10	Gulf States Utilities Neches Station	Gulf States Utilities Neches Station 	30.0647220	-94.0458330	9.0	01-Jan-1973	31-Dec-1973	Jefferson County Health Department
+482450005		BEAUMONT	10	Beaumont Water Plant	Beaumont Water Plant 	30.0980560	-94.0958330	10.0	01-Jan-1971	31-Dec-1973	Jefferson County Health Department
+482451004		BEAUMONT	10	McKinley Water Station	4925 McKinley (Water Station) 	29.9583330	-93.9166670	11.0	01-Jan-1971	31-Dec-1971	Jefferson County Health Department
+482451006		BEAUMONT	10	Neches Drive	917 Neches Drive 	29.9830560	-93.9458330	5.0	01-Jan-1971	31-Dec-1971	Jefferson County Health Department
+482452003		BEAUMONT	10	Orchard Street	103 Orchard St 	29.9708330	-93.9291670	5.0	01-Jan-1971	31-Dec-1971	Jefferson County Health Department
+482453001		BEAUMONT	10	Memorial &amp; 32nd	32nd &amp; Memorial Blvd 	29.9144440	-93.9411110	5.0	01-Jan-1967	31-Dec-1971	TCEQ
+483610001		BEAUMONT	10	Orange 7th at Elm	7th St at Elm 	30.0966670	-93.7361110	6.0	01-Jan-1966	31-Dec-1971	TCEQ
+482451001		BEAUMONT	10	Hogaboom Road	Hwy 366 &amp; Hogaboom Rd 	29.9666670	-93.9250000	6.0	01-Jan-1966	31-Dec-1969	TCEQ
