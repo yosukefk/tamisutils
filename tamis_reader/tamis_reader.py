@@ -30,9 +30,13 @@ def proc(df, kind=None):
     df_site.insert(0, 'kind', kind)
     return df_meta, df_site
 
+def main(fn):
+    df = reader(fn)
+    df_meta, df_site = proc(df, kind=None)
+    return {'data':df, 'meta':df_meta, 'site':df_site}
+
 if __name__ == '__main__':
     import sys
     fn = sys.argv[1]
-    df = reader(fn)
-    df2 = proc(df, kind=None)
+    df, df_meta, df_site = main(fn)
 
