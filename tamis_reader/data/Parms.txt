@@ -1,6 +1,5 @@
 Parm Code	Name
 10073	Neph B sp-450 nm
-10990	Pm4 - Local Conditions
 10996	VoltNDIR
 10998	3-Methyl-1-Butene And Cyclopentene (ppbV)
 10999	2-Methylhexane And 2-3-Dimethylpentane
